@@ -12,4 +12,10 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="HamBusLib">
+      <HintPath>..\..\hambuslib\HamBusLib\bin\Debug\netstandard2.0\HamBusLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRigBus", "VirtualRigBus\VirtualRigBus.csproj", "{2E2D624A-D2BD-4FD2-BACC-DD0C7811D78F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRigBus.core", "VirtualRigBus\VirtualRigBus.core.csproj", "{2E2D624A-D2BD-4FD2-BACC-DD0C7811D78F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
